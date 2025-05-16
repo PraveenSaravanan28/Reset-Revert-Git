@@ -4,4 +4,3 @@ console.log("hello second commit2")
 
 console.log("hello third commit3")
 
-console.log("hello fourth commit4")
